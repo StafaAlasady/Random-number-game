@@ -1,0 +1,15 @@
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\bin\Debug\net6.0\RadomNumber.exe
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\bin\Debug\net6.0\RadomNumber.deps.json
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\bin\Debug\net6.0\RadomNumber.runtimeconfig.json
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\bin\Debug\net6.0\RadomNumber.dll
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\bin\Debug\net6.0\RadomNumber.pdb
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.csproj.AssemblyReference.cache
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.AssemblyInfoInputs.cache
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.AssemblyInfo.cs
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.csproj.CoreCompileInputs.cache
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.dll
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\refint\RadomNumber.dll
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.pdb
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\RadomNumber.genruntimeconfig.cache
+C:\Users\big-stafa\source\repos\RadomNumber\RadomNumber\obj\Debug\net6.0\ref\RadomNumber.dll
